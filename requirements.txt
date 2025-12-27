@@ -25,3 +25,11 @@ An end-to-end data analytics and machine learning project that forecasts future 
 - Monthly aggregated sales data used for forecasting
 
 ---
+
+## 🔍 Approach
+- Cleaned and aggregated sales data at monthly level
+- Built a time-series forecasting model using Prophet
+- Generated 6-month sales forecast with confidence intervals
+- Created an interactive Power BI dashboard
+
+---
